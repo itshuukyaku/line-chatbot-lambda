@@ -1,0 +1,7 @@
+*.drawio
+.ruff_cache
+menv
+.python-version
+.vscode/*
+__pycache__/
+prompts/__pycache__/
